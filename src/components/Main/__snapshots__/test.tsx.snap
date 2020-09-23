@@ -1,9 +1,24 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
-<main>
-  <h1>
+<main
+  class="styles__Wrapper-blp0sn-0 bAnIoD"
+>
+  <img
+    class="styles__Logo-blp0sn-1"
+  />
+  <h1
+    class="styles__Title-blp0sn-2"
+  >
     React Avançado
   </h1>
+  <h2
+    class="styles__Description-blp0sn-3"
+  >
+    TypesCript, NextJS
+  </h2>
+  <img
+    class="styles__Illustration-blp0sn-4"
+  />
 </main>
 `;
